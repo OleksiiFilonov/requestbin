@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Hookup an AWS API Gateway endpoint to a Lambda function to render HTML on a `GET` request",
   "dependencies": {
-    "aws-sdk": "^2.7.9"
+    "aws-sdk": "^2.814.0"
   }
 }
